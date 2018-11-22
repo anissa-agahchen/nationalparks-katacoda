@@ -1,4 +1,4 @@
-= NationalParks backend application (Python)
+= Anissa's NationalParks backend application (Python)
 
 This application is a backend that provides geolocation information about
 NationalParks. The information is loaded and cached within the service and
